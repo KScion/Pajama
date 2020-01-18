@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Welcom to K Scion's den...
 
-You can use the [editor on GitHub](https://github.com/KScion/Pajama/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## lets start with a random picture to tell you about my day so far
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Random](https://cf.geekdo-images.com/camo/5522f356e7547c1b1ef8bf1bdc8316dfbefa0340/687474703a2f2f66696c65732e6578706c6f736d2e6e65742f7263672f436861726d696e674368616e6765436f6e74726f6c2e706e67)
 
-### Markdown
+### want to add cool images for your own repo ?? visit the following link to browse through the random image generator 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KScion/Pajama/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[link to the random image generaotr!] (https://www.google.com/search?q=random+image+generator&sxsrf=ACYBGNQkRppmSqzscpEDbbwsqzSBAOY3bg:1579361530146&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiHqueXvI3nAhWCGs0KHZsHAgUQ_AUoAXoECBYQAw&biw=1600&bih=912)
